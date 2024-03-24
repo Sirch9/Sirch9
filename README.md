@@ -6,10 +6,6 @@
 <h2 align="center">
  I'm incredibly enthusiastic about diving into the world of software development. Eager to absorb every bit of knowledge and skill, I'm on a journey of continuous learning and growth in this exciting field.
 </h2>
-<a href="https://gitmoji.dev">
-  <img
-    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
-    alt="Gitmoji"
-  />
-</a>
+<br>
+
 
