@@ -4,6 +4,6 @@
    My name is Christopher Mothuli
 </h1>
 <h2 align="center">
-Though I'm still fairly fresh to the field, I've already developed a strong enthusiasm for software development. I'm fascinated by the limitless opportunities presented by each new task and am keen to further my knowledge and abilities."
+ I'm incredibly enthusiastic about diving into the world of software development. Eager to absorb every bit of knowledge and skill, I'm on a journey of continuous learning and growth in this exciting field.
 </h2>
 
