@@ -1,4 +1,5 @@
 ### Hi there 👋
+## My name is Christopher Mothuli
 
 <!--
 **Sirch9/Sirch9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
