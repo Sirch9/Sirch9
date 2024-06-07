@@ -8,4 +8,4 @@
 </h2>
 <br>
 
-📚Currently I'm studying Software Developemnt NQF4 at<a href="https://www.dynamicdna.co.za/">DyanamicDNA</a>
+📚Completed System Development NQF4 at<a href="https://www.dynamicdna.co.za/">DyanamicDNA</a>
