@@ -4,7 +4,7 @@
    My name is Christopher Mothuli👩‍💻 
 </h1>
 <h2 align="center">
- I'm incredibly enthusiastic about diving into the world of software development. Eager to absorb every bit of knowledge and skill, I'm on a journey of continuous learning and growth in this exciting field.
+ ‘You are always a student, never a master. You have to keep moving forward.’ – Conrad Hall
 </h2>
 <br>
 
