@@ -9,5 +9,4 @@
 <br>
 
 📚Completed System Development NQF4 at <a href="https://www.dynamicdna.co.za/">DyanamicDNA</a>
-<br>
-📚Completed Software Testing at <a href="https://www.dynamicdna.co.za/">DyanamicDNA</a>
+
